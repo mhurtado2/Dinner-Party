@@ -1,0 +1,16 @@
+C:\Users\15204\workspace\translate-csharp-js\dinner-party\csharp\bin\Debug\net5.0\DinnerParty.exe
+C:\Users\15204\workspace\translate-csharp-js\dinner-party\csharp\bin\Debug\net5.0\DinnerParty.deps.json
+C:\Users\15204\workspace\translate-csharp-js\dinner-party\csharp\bin\Debug\net5.0\DinnerParty.runtimeconfig.json
+C:\Users\15204\workspace\translate-csharp-js\dinner-party\csharp\bin\Debug\net5.0\DinnerParty.runtimeconfig.dev.json
+C:\Users\15204\workspace\translate-csharp-js\dinner-party\csharp\bin\Debug\net5.0\DinnerParty.dll
+C:\Users\15204\workspace\translate-csharp-js\dinner-party\csharp\bin\Debug\net5.0\ref\DinnerParty.dll
+C:\Users\15204\workspace\translate-csharp-js\dinner-party\csharp\bin\Debug\net5.0\DinnerParty.pdb
+C:\Users\15204\workspace\translate-csharp-js\dinner-party\csharp\obj\Debug\net5.0\DinnerParty.csproj.AssemblyReference.cache
+C:\Users\15204\workspace\translate-csharp-js\dinner-party\csharp\obj\Debug\net5.0\DinnerParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\15204\workspace\translate-csharp-js\dinner-party\csharp\obj\Debug\net5.0\DinnerParty.AssemblyInfoInputs.cache
+C:\Users\15204\workspace\translate-csharp-js\dinner-party\csharp\obj\Debug\net5.0\DinnerParty.AssemblyInfo.cs
+C:\Users\15204\workspace\translate-csharp-js\dinner-party\csharp\obj\Debug\net5.0\DinnerParty.csproj.CoreCompileInputs.cache
+C:\Users\15204\workspace\translate-csharp-js\dinner-party\csharp\obj\Debug\net5.0\DinnerParty.dll
+C:\Users\15204\workspace\translate-csharp-js\dinner-party\csharp\obj\Debug\net5.0\ref\DinnerParty.dll
+C:\Users\15204\workspace\translate-csharp-js\dinner-party\csharp\obj\Debug\net5.0\DinnerParty.pdb
+C:\Users\15204\workspace\translate-csharp-js\dinner-party\csharp\obj\Debug\net5.0\DinnerParty.genruntimeconfig.cache
