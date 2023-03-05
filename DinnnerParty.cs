@@ -37,7 +37,15 @@ foreach(var guest in guests){
     }
 }
 
+foreach( var tableName in tables.Keys)
+{
+    var tableGuests = tables[tableName];
+    Console.WriteLine(tableName);
+    foreach(var guest in tableGuests){
+        Console.WriteLine($"{guest.Name} (${guest.Occupation}) ${guest.Bio}");
+    }
 
+}
 
 
 
@@ -96,9 +104,6 @@ foreach(var guest in guests){
   };
 }
 
-
-
-
-        }
+       }
     }
 }
